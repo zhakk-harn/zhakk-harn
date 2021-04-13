@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-The most interesting stuff I've done so far is in the pinned repos of [AtelierNum](https://github.com/AtelierNum)
-
 <!--
 **zhakk-harn/zhakk-harn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
