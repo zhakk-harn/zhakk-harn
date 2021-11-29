@@ -1,7 +1,7 @@
 ### Hi there 👋
 I help student designers to acquire and use all sorts of technical knowledge.
 
-Right now I'm on the lookout for simple and libre tech to help teaching. I'm even building some, like [Fido, our (very simple) template fetcher with a GUI](https://github.com/AtelierNum/fido). If you have ideas in this domain I'd be very interested to read about them at valentin@dupas.me
+Right now I'm on the lookout for simple and libre tech to help teaching. I'm even building some, like [Fido, our (very simple) template fetcher with a GUI](https://github.com/AtelierNum/fido). If you have ideas in this domain I'd be very interested to read about them at valentin(a)dupas.me
 
 <!--
 **zhakk-harn/zhakk-harn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
