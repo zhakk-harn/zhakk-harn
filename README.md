@@ -1,7 +1,9 @@
 ### Hi there 👋
 I help student designers with acquiring and using all sorts of technical knowledge.
 
-In addition to making some, I'm on the lookout for simple and libre tech to help teaching. You can see our work there https://github.com/AtelierNum, at least part of it because a good deal happens in person.
+In addition to making some, I'm on the lookout for simple and libre tech to help teaching. 
+
+You can see our work there https://github.com/AtelierNum, at least part of it because a good deal happens in person.
 
 <!--
 **zhakk-harn/zhakk-harn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
